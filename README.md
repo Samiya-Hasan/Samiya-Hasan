@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samiya-Hasan
-- 👀 I’m interested in front-end development and other creative tech jobs. I am also open to any opportunityy that can develop my skills :)
+- 👀 I’m interested in front-end development and other creative tech jobs. I am also open to any opportunity that may develop my skills :)
 - 🌱 I’m currently learning HTML (then CSS and Javascript)
 - 📫 How to reach me: samiya3737@hotmail.com
 
